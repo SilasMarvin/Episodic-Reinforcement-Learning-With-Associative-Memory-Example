@@ -1,6 +1,5 @@
 import gym
 import jax.numpy as jnp
-import sys
 
 import model
 import memory

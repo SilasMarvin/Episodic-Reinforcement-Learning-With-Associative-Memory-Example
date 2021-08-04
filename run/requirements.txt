@@ -1,0 +1,6 @@
+dm_haiku==0.0.4
+optax==0.0.9
+pandas==1.1.5
+jax==0.2.17
+gym==0.18.0
+haiku==0.01
