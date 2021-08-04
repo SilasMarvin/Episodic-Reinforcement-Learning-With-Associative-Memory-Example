@@ -5,4 +5,6 @@ The code is annotated to reference specific equations and algorithms in the pape
 
 The link for the paper: https://openreview.net/pdf?id=HkxjqxBYDB
 
+Dependencies are in run/requirements.txt
+
 The code is ran by running "python3 run/"
